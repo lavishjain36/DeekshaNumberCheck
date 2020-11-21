@@ -1,0 +1,29 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+
+body{
+background-color:rgb(199, 255, 70);
+}
+
+#container{
+background-color:rgb(37, 133, 150);
+border:2px solid white;
+height: 270px;
+width: 750px;
+margin: auto;
+text-align: center;
+}
+h1{
+color: aqua;
+}
+
+label{
+color:antiquewhite;
+}
+
+p{
+color:rgb(83, 223, 146);
+}
